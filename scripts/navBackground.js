@@ -4,7 +4,7 @@ var setBackgroundColor = function() {
     var y = window.scrollY;
 
     element.style.backgroundColor =
-        (y > window.innerHeight - element.offsetHeight ? "rgb(22, 22, 22)" : "rgba(0, 0, 0, 0)");
+        (y > window.innerHeight - element.offsetHeight ? "#1b1b19" : "rgba(0, 0, 0, 0)");
     
 }
 
