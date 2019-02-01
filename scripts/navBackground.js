@@ -1,15 +1,11 @@
-/*element = document.querySelector("#alwaysOnTop");
+element = document.querySelector("#alwaysOnTop");
 
 var setBackgroundColor = function() {
     var y = window.scrollY;
-    
-    if (y > 200) {
-        element.style.backgroundColor = "rgb(68, 68, 68)";
-        element.style.borderColor = "rgb(68, 68, 68)";
-        element.style.border
-    }
 
-    else element.style.backgroundColor = "#181818";
+    element.style.backgroundColor =
+        (y > window.innerHeight - element.offsetHeight ? "rgb(22, 22, 22)" : "rgba(0, 0, 0, 0)");
+    
 }
 
-window.addEventListener("scroll", setBackgroundColor);*/
+window.addEventListener("scroll", setBackgroundColor);

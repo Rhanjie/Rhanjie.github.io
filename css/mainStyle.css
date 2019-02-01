@@ -1,7 +1,9 @@
 /********** GLOBAL SECTION **********/
 
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+
 body {
-    font-family: 'Segoe UI', Roboto, Ubuntu, sans-serif;
+    font-family: "Montserrat", Ubuntu, sans-serif;
     font-size: 15px;
     line-height: 1.5;
 
@@ -26,7 +28,8 @@ ul, p {
     top: 0px;
     padding: 20px 0px 20px 0px;
     width: 100%;
-    background-color: #161616;
+    background-color: rgba(0, 0, 0, 0);
+    /*background-color: #161616;*/
 }
 
 .highlight {
@@ -39,8 +42,8 @@ header {
     width: 100%;
     height: 100vh;
     text-align: center;
-    /*background-image: url("img/project1.jpg");*/
-    background-color: #161616
+    background-image: url("../img/background.png");
+    background-color: #161616;
 }
 
 header p {
@@ -57,6 +60,7 @@ header p {
 }
 
 header h1 {
+    margin: 0px;
     padding-top: 40vh;
     font-size: 55px;
     margin-bottom: 0px;
@@ -153,5 +157,29 @@ footer {
     header {
         min-height: 110px;
         text-align: center;
+    }
+
+    nav a {
+        color: white;
+        text-decoration: none;
+        padding: 20px 20px 20px 20px;
+        
+        font-size: 15px;
+    }
+
+    #body .text {
+        text-align: left;
+        margin: 100px 0px 50px 40px;
+    }
+
+    #body p {
+        width: 80%;
+    }
+
+    footer {
+        margin-top: 100px;
+        text-align: center;
+        font-size: 15px;
+        font-weight: bold;
     }
 }
