@@ -42,8 +42,10 @@ header {
     width: 100%;
     height: 100vh;
     text-align: center;
+    background-color: #1b1b19;
     background-image: url("../img/background.png");
-    background-color: #161616;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 header p {
