@@ -1,7 +1,7 @@
 /********** GLOBAL SECTION **********/
 
 body {
-    font-family: 'Segoe UI', Roboto, Ubuntu, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-family: 'Segoe UI', Roboto, Ubuntu, sans-serif;
     font-size: 15px;
     line-height: 1.5;
 
@@ -23,9 +23,10 @@ ul, p {
 
 #alwaysOnTop {
     position: fixed;
-    top: 10px;
+    top: 0px;
+    padding: 20px 0px 20px 0px;
     width: 100%;
-    background-color: #181818;
+    background-color: #161616;
 }
 
 .highlight {
@@ -35,10 +36,11 @@ ul, p {
 /********** HEADER SECTION **********/
 
 header {
-    text-align: center;
-
     width: 100%;
     height: 100vh;
+    text-align: center;
+    /*background-image: url("img/project1.jpg");*/
+    background-color: #161616
 }
 
 header p {
@@ -83,8 +85,7 @@ nav li {
 nav a {
     color: white;
     text-decoration: none;
-    border-bottom: 1px rgb(68, 68, 68) solid;
-    padding: 10px 20px 15px 20px;
+    padding: 20px 20px 20px 20px;
     
     font-size: 20px;
 }
