@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="82" height="30" viewBox="0 0 82 30" role="img" aria-label="DOTS">
+  <title>DOTS</title>
+  <rect x="0.5" y="0.5" width="81" height="29" rx="14.5" fill="#161b22" stroke="#3d444d"/>
+  <g transform="translate(11 7.0) scale(0.6667)" fill="#4BA3FF" stroke="#4BA3FF" stroke-width="0"><circle cx="5" cy="5" r="2.3"/><circle cx="5" cy="12" r="2.3"/><circle cx="5" cy="19" r="2.3"/><circle cx="12" cy="5" r="2.3"/><circle cx="12" cy="12" r="2.3"/><circle cx="12" cy="19" r="2.3"/><circle cx="19" cy="5" r="2.3"/><circle cx="19" cy="12" r="2.3"/><circle cx="19" cy="19" r="2.3"/></g>
+  <text x="35" y="15.0" dy="0.35em" textLength="35.4" lengthAdjust="spacingAndGlyphs" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="13" font-weight="600" fill="#f0f6fc">DOTS</text>
+</svg>

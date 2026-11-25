@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="82" height="30" viewBox="0 0 82 30" role="img" aria-label="HDRP">
+  <title>HDRP</title>
+  <rect x="0.5" y="0.5" width="81" height="29" rx="14.5" fill="#161b22" stroke="#3d444d"/>
+  <g transform="translate(11 7.0) scale(0.6667)" fill="#FFC857" stroke="#FFC857" stroke-width="0"><circle cx="12" cy="12" r="4.6"/><g stroke-width="2.2" stroke-linecap="round"><path transform="rotate(0 12 12)" d="M12 1.6v2.8"/><path transform="rotate(45 12 12)" d="M12 1.6v2.8"/><path transform="rotate(90 12 12)" d="M12 1.6v2.8"/><path transform="rotate(135 12 12)" d="M12 1.6v2.8"/><path transform="rotate(180 12 12)" d="M12 1.6v2.8"/><path transform="rotate(225 12 12)" d="M12 1.6v2.8"/><path transform="rotate(270 12 12)" d="M12 1.6v2.8"/><path transform="rotate(315 12 12)" d="M12 1.6v2.8"/></g></g>
+  <text x="35" y="15.0" dy="0.35em" textLength="35.4" lengthAdjust="spacingAndGlyphs" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="13" font-weight="600" fill="#f0f6fc">HDRP</text>
+</svg>
